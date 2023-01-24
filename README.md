@@ -1,0 +1,1 @@
+Test Automation with Selenium and Python on Stepik. All tasks are performed in a separate script.
